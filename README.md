@@ -122,8 +122,7 @@ README.md
 ## Author
 
 **Dikshit**
-
-Aspiring Data Analyst
+ Data Scientist | Data Analyst
 
 Skills:
 
