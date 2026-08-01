@@ -24,7 +24,7 @@ The dashboard allows filtering by:
 
 ## Main Dashboard
 
-![Dashboard](Dashboard/SuperStore Dashboard - Copy.png)
+![Dashboard](Screenshot/Dashboard_Overviw.png)
 
 ---
 
